@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apache-maven-3.8.1-bin">
+    <CLASSES>
+      <root url="jar://E:/Testing/QATests/Soft/apache-maven-3.8.1-bin.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://repo.maven.apache.org/maven2/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
